@@ -1,3 +1,6 @@
+Gure kasuan Moodle 3.11 Debian 10 baten gainean geneukan, beraz lehen pausua Debian eguneratzea izan da. Hau egin ondoren, hemen azaltzen dena egin behar izan degu PHP bertsio berrira egokitzeko.
+
+
 # Debian 10etik Debian 11ra eguneratzerakoan kontutan izan beharrekoak
 
 PHP bertsioa aldatzen da 7.3tik 7.4 bertsiora. Honek esan nahi du, aurreko Moodle betsioan genituen php pertsonalizazioak ez direla automatikoki azalduko php7.4 bertsioan, aurreko bertsioan jarri genituen aldaketak bertsio berrira ekarri beharko ditugu.
